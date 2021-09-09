@@ -1,5 +1,5 @@
 {
-  "name": "@ryan/eslint-config-jsx-config",
+  "name": "@ryan-liu/eslint-config-jsx-config",
   "version": "1.0.0",
   "main": "index.js",
   "description": "jsx 通用 eslint",

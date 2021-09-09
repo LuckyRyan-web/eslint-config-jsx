@@ -5,7 +5,7 @@
 ```js
 module.exports = {
     ...
-    extends: ['@Ryan/eslint-config-jsx-config'],
+    extends: ['@ryan-liu/eslint-config-jsx-config'],
     ...
 }
 
