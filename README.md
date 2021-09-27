@@ -1,5 +1,9 @@
 ## 使用
 
+```
+yarn add @ryan-liu/eslint-config-jsx-config -D
+```
+
 `.eslintrc.js`
 
 ```js
